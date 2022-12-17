@@ -103,13 +103,6 @@ public class MainActivity extends AppCompatActivity
     {
         mMap.clear(); // 지도 클리어
 
-        if (previous_marker != null){
-            previous_marker_clear(); // 지역정보 마커 클리어
-        }
-
-        new NRPlaces.Builder()
-                .listenre
-
 
     }
 
